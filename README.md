@@ -20,3 +20,7 @@
 - Acomoda en un refractario una capa de galletas y cubre con la crema de limón alterna hasta terminar.
 - Reposa en tu refri por 2 horas o en el congelador si prefieres una textura más firme.
 - Decora con rodajas de limón, comparte y disfruta.
+
+<p align="center"><img src="https://github.com/arojasc01/grupo-D-Liver_Fantastic_IT/blob/main/img/Carlota2.JPG"/></p>
+
+<p align="center"><img src="https://dam.tbg.com.mx/content/dam/tbg/mexico/tu/mx/noticias/17/12/01/asi-luce-bruce-matilda-actualmente.gif/jcr:content/renditions/original"/></p>
