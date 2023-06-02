@@ -24,4 +24,4 @@
 <p align="center"><img src="https://github.com/arojasc01/grupo-D-Liver_Fantastic_IT/blob/main/img/Carlota2.JPG"/></p>
 
 <p align="center"><img src="https://dam.tbg.com.mx/content/dam/tbg/mexico/tu/mx/noticias/17/12/01/asi-luce-bruce-matilda-actualmente.gif/jcr:content/renditions/original"/></p>
-`@octocat:cupcake: [GitHub Pages] (https://www.youtube.com/watch?v=9pNNk5m-mOo)
+:cupcake: [GitHub Pages](https://www.youtube.com/watch?v=9pNNk5m-mOo)
