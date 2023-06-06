@@ -50,3 +50,6 @@ Cantidad | Ingrediente
 @desandovals @dfmonjarazf @eczepedah ¿Qué les parece, se animan a hacer una carlota de limón? :) 
 
 @encanseco @omarnagore ¿Qué mas le agregarian? ¿Ya están listos sus commits? :) 
+
+
+Deberiamos hacer una carlota de limon y compartila en PB, ya tenemos la receta ideal
