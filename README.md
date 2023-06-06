@@ -7,12 +7,17 @@
 
 ## INGREDIENTES
 
-- 👨🏽‍💻 3/4 Taza de leche condensada
-- 🌱 1/2 Barra de queso crema
-- 🤔 1 Paquete de galletas marias
-- 💬 1 Taza de leche evaporada
-- ⚡️ 1/2 Taza de jugo de limón
-- 🎿 2 Piezas de limón cortado en rodajas delgadas
+Cantidad | Ingrediente
+:---:    | :---:
+3/4 de taza  | Leche Condensada
+1/2 de barra | Queso Crema 
+1 Paquete | Galletas Marias
+1 taza | Leche evaporada
+1/2 de taza | Jugo de Limón
+2 piezas | Limón cortado en rodajas delgadas
+
+
+ 👨🏽‍💻  🌱   🤔  💬  ⚡️ 🎿 
 
 ## PREPARACIÓN
 
@@ -24,10 +29,14 @@
 <p align="center"><img src="https://github.com/arojasc01/grupo-D-Liver_Fantastic_IT/blob/main/img/Carlota2.JPG"/></p>
 
 <p align="center"><img src="https://dam.tbg.com.mx/content/dam/tbg/mexico/tu/mx/noticias/17/12/01/asi-luce-bruce-matilda-actualmente.gif/jcr:content/renditions/original"/></p>
+
+
 :cupcake: (https://www.youtube.com/watch?v=9pNNk5m-mOo)
 
+## Integrantes de equipo:
+
 - ELODIA MORENO
-* Ale Rojas
-+ OMAR HERNANDEZ NAGORE
-+ LESLEE JOVANA LOPEZ GUTIERREZ
-+ Erika Nathalie Canseco
+- Ale Rojas
+- OMAR HERNANDEZ NAGORE
+- LESLEE JOVANA LOPEZ GUTIERREZ
+- Erika Nathalie Canseco
